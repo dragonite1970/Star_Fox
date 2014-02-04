@@ -13,4 +13,6 @@ It may even have other planets like in Glacticraft!
 It's going to be similar to Flan's Mod and Glacticraft.
 
 
-I am considering on making a Star Fox map and minigame using this mod when finished for the modded games section on my server when complete.
+  I am considering on making a Star Fox map and minigame using this mod when finished for the modded games section on my server when complete.
+
+That is a paragraph above this text.
